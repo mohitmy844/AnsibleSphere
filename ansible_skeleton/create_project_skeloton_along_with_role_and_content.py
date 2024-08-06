@@ -7,7 +7,7 @@ directory_structure = {
             "hosts": "# inventory file for production servers",
             "group_vars": {
                 "group1.yml": "# here we assign variables to particular groups",
-                "group2.yml": "# here we assign variables to particular groups""
+                "group2.yml": "# here we assign variables to particular groups"
             },
             "host_vars": {
                 "hostname1.yml": "# here we assign variables to particular systems",
@@ -26,9 +26,9 @@ directory_structure = {
             }
         }
     },
-    "library": None,
-    "module_utils": None,
-    "filter_plugins": None,
+    "library": {},
+    "module_utils": {},
+    "filter_plugins": {},
     "playbooks":{
         "project_name1":{
             "playbook.yml": "#this is playbook"
