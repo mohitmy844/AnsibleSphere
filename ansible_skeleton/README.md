@@ -55,4 +55,4 @@ This script creates a more basic Ansible project skeleton, focusing on the essen
 
 These scripts provide a solid foundation for your Ansible projects. You can customize them further to suit your specific needs and preferences.
 
-**Author:** Mohit Yadav
+**Author:** [Mohit Yadav](mailto:mohitsw2202@gmail.com)
