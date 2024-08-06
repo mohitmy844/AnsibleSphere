@@ -39,25 +39,25 @@ AnsibleSphere incorporates several best practices for effective Ansible automati
    git clone https://github.com/your-username/AnsibleSphere.git
 
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any improvements, bug fixes, or new features to add, please submit a pull request.
 
-##License
+## License
 AnsibleSphere is licensed under the MIT License.
 
-##Contact
+## Contact
 For any questions or feedback, please [contact](mailto:mohitsw2202@gmail.com).
 
-##Example Usages
+## Example Usages
 All the usages are mentioned in respective folder README.md
 
-##Future Plans
+## Future Plans
  - Expand the collection with more roles and modules for diverse use cases.
  - Integrate with popular cloud platforms and services.
  - Develop advanced automation features for complex workflows.
 
-##Acknowledgements
+## Acknowledgements
 This project is inspired by the Ansible community and its contributions to the open-source ecosystem.
 
-##Author
+## Author
 [Mohit Yadav](mailto:mohitsw2202@gmail.com)
